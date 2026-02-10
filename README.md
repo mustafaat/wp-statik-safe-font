@@ -11,6 +11,7 @@ Bu script, dinamik bir WordPress sitesini (veya herhangi bir web sitesini) tüm 
 - WordPress kalıntılarını temizler
 - SEO uyumlu bir sitemap oluşturur
 - Google Ads kodu varsa korur performans odaklı bir statik kopya üretir.
+- Wordpress'deki /tag ve /feed bağlantılarını temizler. 
 
 ## 🚀 Öne Çıkan Özellikler
 
