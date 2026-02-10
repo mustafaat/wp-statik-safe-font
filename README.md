@@ -6,7 +6,11 @@ Bu kod sadece bir temizlik aracı değil, aynı zamanda bir **Static Site Genera
 
 # Statik Site Dönüştürücü ve Font Optimize Edici (safefont.py)
 
-Bu script, dinamik bir WordPress sitesini (veya herhangi bir web sitesini) tüm sayfalarıyla tarayarak statik HTML dosyalarına dönüştürür. Dönüştürme sırasında font yüklerini kaldırır, WordPress kalıntılarını temizler ve SEO uyumlu bir sitemap oluşturarak performans odaklı bir statik kopya üretir.
+Bu script, dinamik bir WordPress sitesini (veya herhangi bir web sitesini) tüm sayfalarıyla tarayarak statik HTML dosyalarına dönüştürür. Dönüştürme sırasında:
+- font yüklerini kaldırır,
+- WordPress kalıntılarını temizler
+- SEO uyumlu bir sitemap oluşturur
+- Google Ads kodu varsa korur performans odaklı bir statik kopya üretir.
 
 ## 🚀 Öne Çıkan Özellikler
 
